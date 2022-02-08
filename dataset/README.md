@@ -23,3 +23,10 @@ mà nhóm quan tâm hay không, nếu có, video sẽ được gán nhãn là "1
 Sau khi có video, nhóm sẽ tiến hành phân loại dựa theo sơ đồ sau:
 
 ![alt text](https://github.com/minz1337/CS114.M11/blob/main/images/Qua_trinh_phan_loai.png)
+
+- Link to dataset: https://drive.google.com/drive/folders/1_LJ7WGDTrdK_mm7s1fu3mC75EWabQDuK?usp=sharing
+     - /AudioBaseData : Bộ dataset dùng cho phương pháp sử dụng Audio
+     - /LogoBaseData : Bộ dataset dùng cho phương pháp sử dụng ảnh logo
+     - /result/stft_output_2/highlight_labeled: Kết quả nhóm gán nhãn highlight bằng tay
+     - /result/stft_output_2 : Kết quả sử dụng phương pháp audio để tóm tắt trận đấu
+     - /save model : Lưu trữ kết quả train của các model
